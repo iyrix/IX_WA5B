@@ -1,0 +1,17 @@
+{
+  "addColumn":"Add Column",
+  "editColumn":"Edit Column",
+  "addTask":"Add Task",
+  "editTask":"Edit Task",
+  "save":"Save",
+  "update":"Update",
+  "close":"X",
+  "title":"Title",
+  "description":"Description",
+  "errorUpdateTask":"Error updating task:",
+  "errorCreateColumn":"Error creating column:",
+  "errorDeleteColumn":"Error deleting column:",
+  "errorUpdateColumn":"Error updating column:",
+  "errorCreateTask":"Error creating task:",
+  "errorDeleteTask":"Error deleting task:"
+}
